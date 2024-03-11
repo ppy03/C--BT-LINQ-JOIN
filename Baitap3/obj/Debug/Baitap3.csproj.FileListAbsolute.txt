@@ -1,0 +1,7 @@
+D:\Hocki2 2023-2024\LaptrinhC#\Baitap3\Baitap3\bin\Debug\Baitap3.exe.config
+D:\Hocki2 2023-2024\LaptrinhC#\Baitap3\Baitap3\bin\Debug\Baitap3.exe
+D:\Hocki2 2023-2024\LaptrinhC#\Baitap3\Baitap3\bin\Debug\Baitap3.pdb
+D:\Hocki2 2023-2024\LaptrinhC#\Baitap3\Baitap3\obj\Debug\Baitap3.csproj.AssemblyReference.cache
+D:\Hocki2 2023-2024\LaptrinhC#\Baitap3\Baitap3\obj\Debug\Baitap3.csproj.CoreCompileInputs.cache
+D:\Hocki2 2023-2024\LaptrinhC#\Baitap3\Baitap3\obj\Debug\Baitap3.exe
+D:\Hocki2 2023-2024\LaptrinhC#\Baitap3\Baitap3\obj\Debug\Baitap3.pdb
